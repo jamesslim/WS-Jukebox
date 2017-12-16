@@ -1,0 +1,78 @@
+html {
+	font-size: 30px;
+	height: 100%;
+	background-image: url("Robot Wallpaper.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: aqua;
+}
+h1 {
+  text-align: left;
+  margin-left: 230px;
+  margin-top: 110px;
+  font-size: 65px;
+  font-family: 'Audiowide', cursive;
+}
+.container {
+  width: 50%;
+  margin-left: 90px;
+}
+#pause {
+	display: none;
+}
+#volume {
+  width: 20%;
+  display: inline-block;
+}
+#playlist {
+	width: 60%;
+	/*margin: 20px auto;*/
+	margin-left: 125px;
+	background-color: rgba(0,0,0,0.2);
+	height: 40vh;
+	overflow: scroll;
+	font-size: 20px;
+	/*background-size: cover;*/
+}
+.vol {
+  text-align: center;
+  margin: auto;
+}
+.ppbuttons {
+  /*text-align: right;*/
+  margin-left: 50px;
+  padding-left: 190px;
+  font-size: 30px;
+}
+.fa {
+	cursor: pointer;
+	padding: 10px;
+}
+h3 {
+	text-align: center;
+	margin: auto;
+	font-family: 'Audiowide', cursive;
+	font-size: 15px;
+}
+ol {
+	margin-top: 0;
+}
+li {
+	margin-top: 10px;
+	font-family: 'Audiowide', cursive;
+	font-size: 17px;
+}
+#clickme {
+	margin-left: 250px;
+	font-family: 'Audiowide', cursive;
+	font-size: 25px;
+}
+#hide {
+	margin-left: 250px;
+	font-family: 'Audiowide', cursive;
+	font-size: 25px;
+	text-align: left;
+	margin-left: 225px;
+}
+
+
